@@ -1,0 +1,27 @@
+Le sdejo las preguntas para el Examen de GIS Analyst que lleva a cabo GEE (Google Earth Engine).
+
+Las preguntas, para mi, fueron de primer año de la Materia Cartografía de la Universidad:
+
+Geodesia: Sistema de coordenadas. Definición de geodesia. Diferencias entre geoide y elipsoide. Punto datum. Latitud y longitud. Para que se use una red de triangulación. Proyecciones. Diferencia entre mercator y gauss krugger.
+
+Topografía: Definición, que es un levantamiento topográfico, definir diferentes curvas de nivel y ejemplificar. Cómo se miden los desniveles, cómo se asigna la distancia de separación entre las curvas.
+
+Escalas: Definicion de Escalas Cartograficas. Cómo se grafican.
+
+Fotogrametría: Definición de conceptos fotogramétricos. Que nos representa una imagen. Técnicas del vuelo fotogramétrico.
+
+Teledetección: Imágenes satelitales. Resolución temporal y espacial. Tipos de imágenes. Diferencia entre sensor óptico y radar. Para que se usa la teledetección marina.
+
+GIS: Definición de vectores. Que es un punto, línea y polígono. Diferencia entre vector y raster. Cómo se representan las diferentes capas.
+
+Geoestadística: Inferencia estadística. Interpolación. Extrapolación. Método científico. Distribución normal y binomial. Ejemplificar con conceptos cotidianos.
+
+Data: Diferencia entre Machine Learning y Deep Learning, ejemplo de la vida real. Que es una red neuronal. 
+
+SQL: Querys. Joins. Específicas gis.
+
+Python: librerías.
+
+Javascript: les comente que soy junior y busco info en stackoverflow, por lo que obviaron hacerme preguntas.
+
+Espero que tengas un lindo fin de seman
