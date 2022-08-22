@@ -1,4 +1,4 @@
-Le sdejo las preguntas para el Examen de GIS Analyst que lleva a cabo GEE (Google Earth Engine).
+Les dejo las preguntas para el Examen de GIS Analyst que lleva a cabo GEE (Google Earth Engine).
 
 Las preguntas, para mi, fueron de primer año de la Materia Cartografía de la Universidad:
 
@@ -23,5 +23,3 @@ SQL: Querys. Joins. Específicas gis.
 Python: librerías.
 
 Javascript: les comente que soy junior y busco info en stackoverflow, por lo que obviaron hacerme preguntas.
-
-Espero que tengas un lindo fin de seman
